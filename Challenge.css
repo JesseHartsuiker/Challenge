@@ -7,3 +7,7 @@ th, td {
     padding-right: 5px;
     text-align: center;
 }
+openingstijden.html table, th , td{
+    border: 3px solid black;
+    border-collapse: collapse;
+}
